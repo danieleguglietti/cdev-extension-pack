@@ -1,0 +1,33 @@
+{
+    "name": "c-dev",
+    "displayName": "Daniele Guglietti: C/C++",
+    "description": "This extension pack includes extensions for C++ development in Visual Studio Code.",
+    "publisher": "dguglietti",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "homepage": "https://github.com/danieleguglietti/cdev-extension-pack",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/danieleguglietti/cdev-extension-pack.git"
+    },
+    "keywords": [
+        "c",
+        "c++"
+    ],
+    "extensionPack": [ 
+        "Trunk.io",
+        "twxs.cmake",
+        "ms-vscode.cpptools",
+        "cschlosser.doxdocgen",
+        "ms-vscode.cmake-tools",
+        "FleeXo.cpp-class-creator",
+        "jeff-hykin.better-cpp-syntax",
+        "ms-vscode-remote.remote-wsl",
+        "llvm-vs-code-extensions.vscode-clangd"
+    ]
+}
